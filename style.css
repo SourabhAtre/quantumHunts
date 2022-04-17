@@ -1,0 +1,29 @@
+body{
+    background: black;
+}
+.mt{
+    margin-top: 80px;
+}
+.form-control-sm{
+    width: 25%;
+}
+.lastbutton{
+    display: flex;
+    justify-content: center;
+}
+.secondlastbutton{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
+.or{
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+}
